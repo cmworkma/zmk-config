@@ -29,6 +29,10 @@
                 ;
         };
 
+        default_transform {
+	col-offset = <6>;
+        };
+
         keymap {
                 compatible = "zmk,keymap";
 
