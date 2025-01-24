@@ -72,7 +72,7 @@
 // | GUI  |  ^  |  /  |  *  |  \  |      |____|  `~  |  $  |  {  |  }  |  ?  |  ALT |
 //                    |     | ENT | SHFT |____|      |     |     |
                         bindings = <
-   &kp ESC   &kp SQT   &kp LT    &kp RT   &kp DQT   &kp DOT     &kp AMPS  &trans    &kp LBKT  &kp RBKT &kp PRCNT &kp BSPC
+   &kp ESC   &kp SQT   &kp LT    &kp GT   &kp DQT   &kp DOT     &kp AMPS  &trans    &kp LBKT  &kp RBKT &kp PRCNT &kp BSPC
    &kp TAB   &kp EXCL  &kp MINUS &kp PLUS &kp EQUAL &kp HASH    &kp PIPE  &kp COLON &kp LPAR  &kp RPAR &kp AT    &trans 
    &kp LGUI  &kp CARET &kp FSLH  &kp STAR &kp BSLH  &trans      &kp GRAVE &kp DLLR  &kp LBRC  &kp RBRC &kp QMARK &kp LALT
                                  &trans   &kp ENT   &kp LSHFT   &trans    &trans    &trans
